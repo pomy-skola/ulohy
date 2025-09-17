@@ -1,6 +1,6 @@
 # Založení repozitáře
 
-*odhadovaný čas: ~45 min. + přečtení zadání*
+*odhadovaný čas: ~25 min. + přečtení zadání*
 
 Založíte repozitář na portále Github, pod vlastním účtem.
 
