@@ -2,3 +2,4 @@
 
 - [Volba jazyka](./volba-jazyka.md)
 - [Založení issue](./zalozeni-issue.md)
+- [Založení repozitáře](./zalozeni-repo.md)
