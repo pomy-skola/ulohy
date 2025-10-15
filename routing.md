@@ -1,4 +1,4 @@
-# Šablony (jinja templates)
+# Routing
 
 *odhadovaný čas: ~35 min. + přečtení zadání*
 
