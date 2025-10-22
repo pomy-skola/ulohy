@@ -6,3 +6,4 @@
 - [Flask demo](./flask-demo.md)
 - [Jinja template](./jinja-template.md)
 - [Odkazy - Routing](./routing.md)
+- [samostatná práce - RGB](./rgb.md)
