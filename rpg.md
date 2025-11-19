@@ -1,4 +1,4 @@
-# Samostatná práce - RGB
+# Samostatná práce - RPG
 
 *odhadovaný čas: ~60 min. + přečtení zadání*
 
