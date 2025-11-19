@@ -7,3 +7,4 @@
 - [Jinja template](./jinja-template.md)
 - [Odkazy - Routing](./routing.md)
 - [samostatná práce - RGB](./rgb.md)
+- [samostatná práce - RPG](./rpg.md)
