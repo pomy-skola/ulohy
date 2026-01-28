@@ -13,7 +13,7 @@ Aplikace formou webové stránky umožní uživateli vyplnit formulář pro odes
 - Formulář bude odesílán metodou **POST**.
 - Pro vytváření HTML stránek využijte **Jinja šablony**.
 - Data z formuláře budou **validována** na straně serveru.
-- Validní data budou **uložena do JSON souboru** `zasilky.json`.
+- Validní data budou **uložena do JSON souboru** `zasilka-{datum a čas}.json`.
 - Po úspěšném odeslání se uživateli zobrazí potvrzení.
 - Při chybě validace se zobrazí formulář znovu s chybovými hláškami.
 - Každá stránka bude validní HTML5 dokument.
