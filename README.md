@@ -8,3 +8,6 @@
 - [Odkazy - Routing](./routing.md)
 - [samostatná práce - RGB](./rgb.md)
 - [samostatná práce - RPG](./rpg.md)
+- [samostatná práce - XMS](./xms.md)
+- [Pošta](./post.md)
+- [samostatná práce - Wish list](./whishlist.md)
