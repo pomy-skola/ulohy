@@ -12,3 +12,5 @@
 - [Pošta](./post.md)
 - [samostatná práce - Wish list](./whishlist.md)
 - [samostatná práce - RGB2](./rgb2.md)
+- [samostatná práce - Ptačí dashboard](./birds.md)
+
