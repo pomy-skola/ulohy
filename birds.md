@@ -4,7 +4,7 @@ Cílem projektu je vytvořit interaktivní webovou aplikaci pro procházení dat
 
 ## Popis datasetu
 
-Soubor `dataset_ptaci_final.csv` obsahuje 120 druhů ptáků s těmito sloupci:
+Soubor [dataset_ptaci_final.csv obsahuje](./assets/birds/dataset_ptaci_final.csv) 120 druhů ptáků s těmito sloupci:
 
 | Sloupec | Popis | Typ |
 |---|---|---|
